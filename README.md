@@ -58,15 +58,17 @@ CREATE TABLE thingData ( id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, topic varch
 )
 
 
-# ERRORES QUE TUVIMOS
-Version de node-red
+# GET
+![Captura realizada el 2021-12-12 22 31 58](https://user-images.githubusercontent.com/20243155/145752632-8b22ad51-1a2f-4ccb-87ff-74569bd90c04.png)
+![Captura realizada el 2021-12-12 22 30 57](https://user-images.githubusercontent.com/20243155/145752635-7a2fa36d-3b41-4847-ba3a-c3dc1c65c34b.png)
 
-![Captura realizada el 2021-11-29 10 03 11](https://user-images.githubusercontent.com/20243155/143892137-c77995d8-e694-4676-9a95-dfb5cd10fb40.png)
-Puertos de red
+# GET FILTERS
+![Captura realizada el 2021-12-12 22 44 57](https://user-images.githubusercontent.com/20243155/145752615-dec2ac7f-e87f-4593-8009-3895e8c8fb4e.png)
+![Captura realizada el 2021-12-12 22 44 28](https://user-images.githubusercontent.com/20243155/145752627-522bf02e-af33-4fe2-b0f5-2c5d98d35f03.png)
 
-![Captura realizada el 2021-11-29 10 09 52](https://user-images.githubusercontent.com/20243155/143892704-90262589-2c48-4240-bb17-1238fd7a7b42.png)
-Ejecucion local de node-red en el puerto 
+# DELETE
+![Captura realizada el 2021-12-12 23 02 48](https://user-images.githubusercontent.com/20243155/145752578-84868faf-6608-46db-8e3e-85f9dbd62970.png)
+![Captura realizada el 2021-12-12 23 02 27](https://user-images.githubusercontent.com/20243155/145752605-3f9d4e27-57cd-473b-9ff0-1fe820a2046b.png)
 
-![Captura realizada el 2021-11-29 10 11 40](https://user-images.githubusercontent.com/20243155/143892978-0b06dd2b-38f3-4fbd-ac91-0f2b99324b7c.png)
-
-
+# PURGE
+![Captura realizada el 2021-12-12 23 17 09](https://user-images.githubusercontent.com/20243155/145752562-b6b17683-0693-4149-8eb9-0097a343526c.png)
