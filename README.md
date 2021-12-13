@@ -8,6 +8,7 @@ Alumnos:
   
   Montesinos Apaza, Sergio
 
+  Herrera Cooper, Miguel Alexander
 
 # PASOS A SEGUIR
 ## Antes de iniciar el docker
