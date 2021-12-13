@@ -60,7 +60,7 @@ CREATE TABLE thingData ( id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, topic varch
 
 # GET
 ![Captura realizada el 2021-12-12 22 31 58](https://user-images.githubusercontent.com/20243155/145752632-8b22ad51-1a2f-4ccb-87ff-74569bd90c04.png)
-![Captura realizada el 2021-12-12 22 30 57](https://user-images.githubusercontent.com/20243155/145752635-7a2fa36d-3b41-4847-ba3a-c3dc1c65c34b.png)
+![Captura realizada el 2021-12-12 23 52 51](https://user-images.githubusercontent.com/20243155/145754516-c8af3054-67d9-4794-91c8-69c907cd8238.png)
 
 # GET FILTERS
 ![Captura realizada el 2021-12-12 22 44 57](https://user-images.githubusercontent.com/20243155/145752615-dec2ac7f-e87f-4593-8009-3895e8c8fb4e.png)
